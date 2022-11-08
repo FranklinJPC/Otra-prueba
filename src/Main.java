@@ -50,11 +50,11 @@ public class Main {
                 break;
             case 2:
                 Automovil carro = new Automovil();
-                carro.setAnio(2021);
-                carro.setCapacidad(4);
-                carro.setColor("Rojo");
-                carro.setMarca("Chevrolet");
-                carro.setRuedas(4);
+                carro.setAnio(2022);
+                carro.setCapacidad(5);
+                carro.setColor("Verde");
+                carro.setMarca("Toyota");
+                carro.setRuedas(3);
                 System.out.println("Marca: " + carro.getMarca());
                 System.out.println("Color: " + carro.getColor());
                 System.out.println("Capacidad: " + carro.getCapacidad());
